@@ -1,0 +1,5 @@
+{
+  "name": "Fishing Apparel Finder",
+  "description": "Identify fishing apparel product IDs and colors from photos using AI and official website search.",
+  "requestFramePermissions": []
+}
